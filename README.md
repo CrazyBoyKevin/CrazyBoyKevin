@@ -56,6 +56,7 @@ site: http://hits.dwyl.com or https://visitor-badge.glitch.me
 Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
 -->
 <br />
+<br />
 <p align="center">
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/CrazyBoyKevin/onimur.svg" />
 </p>
